@@ -1,1 +1,1 @@
-# data-analytics-assigmnets
+# data-analytics-assignments
